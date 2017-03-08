@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_sea"
+            android:icon="@drawable/cool"
+            android:title="Today's Special" />
+        <item
+            android:id="@+id/nav_seas"
+            android:icon="@drawable/cool"
+            android:title="Being Indian Videos" />
+        <item
+            android:id="@+id/nav_sead"
+            android:icon="@drawable/cool"
+            android:title="Motivational Videos" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+
+            <item
+                android:id="@+id/nav_sen"
+                android:icon="@drawable/cool"
+                android:title="About us" />
+
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/share"
+                android:title="Share this App" />
+            <item
+                android:id="@+id/nav_sen1"
+                android:icon="@drawable/cool"
+                android:title="Like us on Facebook" />
+
+
+
+        </menu>
+    </item>
+
+</menu>

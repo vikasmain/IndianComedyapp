@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/action_addme"
+
+        android:title="Download Now"
+   app:showAsAction="always"
+        android:icon="@drawable/ic_menu_gallery"
+        android:orderInCategory="101"
+        >
+
+    </item>
+    <item android:id="@+id/notifi"
+        app:showAsAction="always"
+        android:title="Notifications"
+        android:icon="@drawable/notigy"
+android:orderInCategory="102"
+        >
+
+    </item>
+</menu>

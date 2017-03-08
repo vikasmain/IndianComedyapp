@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hasenga Bharat</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="down">Thanks for downloading u must have sd card for download this file</string>
+    <string name="bdown">Click here To Download</string>
+    <string name="bdown2">Query Status</string>
+    <string name="bdown3">View in Folder</string>
+
+</resources>

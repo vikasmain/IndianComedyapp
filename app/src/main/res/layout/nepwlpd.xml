@@ -1,0 +1,28 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+
+    <!--
+    Remember to create a VideoView container because FVView is added in its
+    original parent, when coming back from fullscreen.
+    So, is important to put VideoView inside a View container with fixed size.
+    I'm going to change it in near future. But, it will not affect this container
+    implementation.
+    -->
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <com.ramjana.vik.mycheete.FullscreenVideoLayout
+            android:id="@+id/videoview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </FrameLayout>
+
+
+</RelativeLayout>
