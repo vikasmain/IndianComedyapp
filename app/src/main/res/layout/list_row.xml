@@ -58,7 +58,7 @@
             android:paddingTop="@dimen/feed_item_status_pad_top" />
 
 
-        <com.ramjana.vik.manya.FeedImageView
+        <com.ramya.vik.manya.FeedImageView
 
             android:id="@+id/feedImage1"
             android:layout_width="match_parent"

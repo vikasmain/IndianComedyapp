@@ -18,7 +18,7 @@
         android:layout_height="match_parent"
         >
 
-        <com.ramjana.vik.mycheete.FullscreenVideoLayout
+        <com.ramya.vik.mycheete.FullscreenVideoLayout
             android:id="@+id/videoview"
             android:layout_width="match_parent"
             android:layout_height="match_parent" />

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "781344238273",
+    "firebase_url": "https://hasengabh.firebaseio.com",
+    "project_id": "hasengabh",
+    "storage_bucket": "hasengabh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781344238273:android:d0f7ea2acc2d68ab",
+        "android_client_info": {
+          "package_name": "com.ramya.vik.manya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781344238273-6um9rhmtgorf0l2mlrleq8jlg3fntg4l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ramya.vik.manya",
+            "certificate_hash": "b482be7d379f664f0f56f5ad63a0073df09d469f"
+          }
+        },
+        {
+          "client_id": "781344238273-4tmq9765p7ne9ntmqvlqasi54u7qd0g4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASEeaJhnEpIpCXxuk62kQcF6-63YeSVq4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781344238273-4tmq9765p7ne9ntmqvlqasi54u7qd0g4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
