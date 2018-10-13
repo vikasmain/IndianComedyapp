@@ -1,0 +1,1 @@
+U must have android studio installed in your pc to run this project.u must have active internet connection in your pc to run this.
